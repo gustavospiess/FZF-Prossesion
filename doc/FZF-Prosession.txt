@@ -32,7 +32,8 @@ Install via your preferred bundle manager:
     " NeoBundle
     `NeoBundle 'gustavospiess/FZF-Prosession'`
 
-    " vim-plug `Plug 'gustavospiess/FZF-Prosession'` 
+    " vim-plug
+    `Plug 'gustavospiess/FZF-Prosession'` 
 <
 And add your preferred key mapping:
 >
