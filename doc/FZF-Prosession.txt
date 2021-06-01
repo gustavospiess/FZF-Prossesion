@@ -7,6 +7,8 @@ Author: Gustavo Henrique Spiess <http://github.com/gustavospiess>
 
 ==============================================================================
 CONTENTS                                              *FZF-Prosession-contents*
+                                                      *FzfProsession*
+                                                      *FzfProsessionDelete*
 
 Introduction                                   |FZF-Prosession-intro|
 Installation                                   |FZF-Prosession-install|
@@ -53,6 +55,9 @@ Usage                                                    *FZF-Prosession-usage*
     :FzfProsession " to execute :Procession searching with fzf
     :FzfProsessionDelete " to execute :ProcessionDelete searching with fzf
 <
+The deletion process is made so that you may select multiple sessions to
+remove, as it is easy to have to delete a bunch of them once.
+
 ==============================================================================
 License                                                *FZF-Prosession-license*
 
