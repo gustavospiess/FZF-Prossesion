@@ -20,7 +20,8 @@ Installation
 
 ### Pathogen
 ```bash
-cd ~/.vim/bundle $ git clone https://github.com/gustavospiess/FZF-Prosession.git
+cd ~/.vim/bundle
+git clone https://github.com/gustavospiess/FZF-Prosession.git
 ```
 
 Configuration
